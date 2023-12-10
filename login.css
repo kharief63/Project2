@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: #0938AD;
+}
+
+
+
+
+.header{
+    /* float: right;
+    margin-right: 1300px; */
+    color: white;
+}
+
+.head-img{
+    width: 50px;
+    margin-left: 30px;
+}
+
+.inpset{
+    width: 30%;
+    padding: 12px 20px;
+}
+
+.h3{
+    margin-left: 680px;
+    margin-top: 100px;
+}
+.inp1{
+    width: 100%;
+    border-radius: 5px;
+}
+.inp2{
+    width: 100%;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+.but{
+    background: #6633CC;
+    color: white;
+    border: none;
+}
+.footer{
+    margin-top: 150px;
+    color: #635c5c;
+    text-align: center;
+
+}
+#login {
+    text-align: center;
+    width: 30%;
+    margin: 0 auto;
+}
+.text-field{
+    width: calc(100% - 34px);
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 2px solid #c2bfbf;
+}
+
+.button-full{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 2px solid #c2bfbf;
+}
